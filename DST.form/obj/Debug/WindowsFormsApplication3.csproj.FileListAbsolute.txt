@@ -1,0 +1,140 @@
+c:\users\thinkpadx220\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\thinkpadx220\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\TWSLib.dll
+C:\Users\ThinkpadX220\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\ThinkpadX220\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.dll
+C:\Users\ThinkpadX220\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.xml
+C:\Users\ThinkpadX220\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\ThinkpadX220\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ThinkpadX220\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\ThinkpadX220\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\ThinkpadX220\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\ThinkpadX220\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ThinkpadX220\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Francisco Hernandez\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Francisco Hernandez\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Francisco Hernandez\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Francisco Hernandez\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Francisco Hernandez\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Francisco Hernandez\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Francisco Hernandez\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\NewWindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\NewWindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\NewWindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\NewWindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+D:\NewWindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\NewWindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\NewWindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\NewWindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\NewWindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\NewWindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.dll
+D:\NewWindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\TWSLib.dll
+D:\NewWindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.xml
+C:\Users\bvanvli\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\bvanvli\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\bvanvli\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\bvanvli\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\bvanvli\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\bvanvli\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.dll
+C:\Users\bvanvli\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.xml
+C:\Users\bvanvli\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\bvanvli\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\bvanvli\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Francisco Hernandez\Documents\DSTMM\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Francisco Hernandez\Documents\DSTMM\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Francisco Hernandez\Documents\DSTMM\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Francisco Hernandez\Documents\DSTMM\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Francisco Hernandez\Documents\DSTMM\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Francisco Hernandez\Documents\DSTMM\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.dll
+C:\Users\Francisco Hernandez\Documents\DSTMM\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.xml
+C:\Users\Francisco Hernandez\Documents\DSTMM\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Francisco Hernandez\Documents\DSTMM\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Francisco Hernandez\Documents\DSTMM\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Francisco Hernandez\Documents\DSTMM\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Francisco Hernandez\Dropbox\DST\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Francisco Hernandez\Dropbox\DST\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Francisco Hernandez\Dropbox\DST\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Francisco Hernandez\Dropbox\DST\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Francisco Hernandez\Dropbox\DST\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Francisco Hernandez\Dropbox\DST\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.dll
+C:\Users\Francisco Hernandez\Dropbox\DST\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.xml
+C:\Users\Francisco Hernandez\Dropbox\DST\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Francisco Hernandez\Dropbox\DST\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Francisco Hernandez\Dropbox\DST\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Francisco Hernandez\Dropbox\DST\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Francisco Hernandez\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Francisco Hernandez\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Francisco Hernandez\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.dll
+C:\Users\Francisco Hernandez\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.xml
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_19_FH\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_19_FH\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_19_FH\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_19_FH\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_19_FH\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_19_FH\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.dll
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_19_FH\WindowsFormsApplication3\bin\Debug\TWSLib.dll
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_19_FH\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.xml
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_19_FH\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_19_FH\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_19_FH\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_19_FH\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_20_RC\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_20_RC\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_20_RC\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_20_RC\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_20_RC\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_20_RC\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.dll
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_20_RC\WindowsFormsApplication3\bin\Debug\TWSLib.dll
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_20_RC\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.xml
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_20_RC\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_20_RC\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_20_RC\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ThinkpadX220\Documents\WindowsFormsApplication3_April_20_RC\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Francisco Hernandez\Documents\DSTMM\New folder\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Francisco Hernandez\Documents\DSTMM\New folder\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Francisco Hernandez\Documents\DSTMM\New folder\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Francisco Hernandez\Documents\DSTMM\New folder\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Francisco Hernandez\Documents\DSTMM\New folder\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Francisco Hernandez\Documents\DSTMM\New folder\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.dll
+C:\Users\Francisco Hernandez\Documents\DSTMM\New folder\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.xml
+C:\Users\Francisco Hernandez\Documents\DSTMM\New folder\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Francisco Hernandez\Documents\DSTMM\New folder\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Francisco Hernandez\Documents\DSTMM\New folder\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Francisco Hernandez\Documents\DSTMM\New folder\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\FH_4_26_MVP\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\FH_4_26_MVP\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\FH_4_26_MVP\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\FH_4_26_MVP\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+E:\FH_4_26_MVP\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\FH_4_26_MVP\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\FH_4_26_MVP\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\FH_4_26_MVP\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\FH_4_26_MVP\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\FH_4_26_MVP\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.dll
+E:\FH_4_26_MVP\WindowsFormsApplication3\bin\Debug\TradeMatching.dll
+E:\FH_4_26_MVP\WindowsFormsApplication3\bin\Debug\TWSLib.dll
+E:\FH_4_26_MVP\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.xml
+E:\FH_4_26_MVP\WindowsFormsApplication3\bin\Debug\TradeMatching.pdb
+C:\Users\bvanvli\Downloads\DST.RC_4_27_DELUXE\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\bvanvli\Downloads\DST.RC_4_27_DELUXE\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\bvanvli\Downloads\DST.RC_4_27_DELUXE\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\bvanvli\Downloads\DST.RC_4_27_DELUXE\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\bvanvli\Downloads\DST.RC_4_27_DELUXE\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\bvanvli\Downloads\DST.RC_4_27_DELUXE\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\bvanvli\Downloads\DST.RC_4_27_DELUXE\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\bvanvli\Downloads\DST.RC_4_27_DELUXE\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\bvanvli\Downloads\DST.RC_4_27_DELUXE\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.dll
+C:\Users\bvanvli\Downloads\DST.RC_4_27_DELUXE\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.xml
+C:\Users\bvanvli\Downloads\DST.RC_4_27_DELUXE\WindowsFormsApplication3\bin\Debug\TradeMatching.dll
+C:\Users\bvanvli\Downloads\DST.RC_4_27_DELUXE\WindowsFormsApplication3\bin\Debug\TradeMatching.pdb
+C:\Users\rcampbell\Downloads\DST.RC_4_27_DELUXE\DST.RC_4_27_DELUXE\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\rcampbell\Downloads\DST.RC_4_27_DELUXE\DST.RC_4_27_DELUXE\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\rcampbell\Downloads\DST.RC_4_27_DELUXE\DST.RC_4_27_DELUXE\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\rcampbell\Downloads\DST.RC_4_27_DELUXE\DST.RC_4_27_DELUXE\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\rcampbell\Downloads\DST.RC_4_27_DELUXE\DST.RC_4_27_DELUXE\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\rcampbell\Downloads\DST.RC_4_27_DELUXE\DST.RC_4_27_DELUXE\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.dll
+C:\Users\rcampbell\Downloads\DST.RC_4_27_DELUXE\DST.RC_4_27_DELUXE\WindowsFormsApplication3\bin\Debug\MathNet.Numerics.xml
+C:\Users\rcampbell\Downloads\DST.RC_4_27_DELUXE\DST.RC_4_27_DELUXE\WindowsFormsApplication3\bin\Debug\TradeMatching.pdb
+C:\Users\rcampbell\Downloads\DST.RC_4_27_DELUXE\DST.RC_4_27_DELUXE\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\rcampbell\Downloads\DST.RC_4_27_DELUXE\DST.RC_4_27_DELUXE\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\rcampbell\Downloads\DST.RC_4_27_DELUXE\DST.RC_4_27_DELUXE\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\rcampbell\Downloads\DST.RC_4_27_DELUXE\DST.RC_4_27_DELUXE\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
