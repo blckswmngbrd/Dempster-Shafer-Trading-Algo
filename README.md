@@ -38,5 +38,5 @@ Dempster-Shafer Theory (DST): data fusion method based on mass functions
 Developed
 by 
 
-Randall Campbell and Francisco Hernandez,Phd.
+Randall Campbell and Francisco Hernandez
 @ The Illinois Institute of Technology - Stuart School of Business
